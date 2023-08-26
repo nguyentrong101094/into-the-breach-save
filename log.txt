@@ -1188,3 +1188,832 @@ Save game cache: Opening file profile_Alpha\profile.lua... Ok
 Loading map file: volcanoAE1
 Save game cache: Opening file profile_Alpha\profile.lua... Ok
 Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Creating incidents for island Corp_Factory
+Loading map file: any50
+Loading map file: anyAE13
+Loading map file: trainAE4
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/profile.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Starting Battle Music!
+Starting track = event:/music/acid/combat_synth
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Already Spawning = 0
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Renaming file profile_Alpha\undoSave.lua -> profile_Alpha\undoLastSave.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\undoSave.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/profile.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/saveData.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/undoSave.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Starting track = event:/music/acid/combat_new
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Already Spawning = 0
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Renaming file profile_Alpha\undoSave.lua -> profile_Alpha\undoLastSave.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\undoSave.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/profile.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/saveData.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/undoSave.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Starting track = event:/music/acid/combat_synth
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Already Spawning = 0
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Renaming file profile_Alpha\undoSave.lua -> profile_Alpha\undoLastSave.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\undoSave.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/profile.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/saveData.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/undoSave.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Starting track = event:/music/acid/combat_detritus
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Renaming file profile_Alpha\undoSave.lua -> profile_Alpha\undoLastSave.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\undoSave.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/profile.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/saveData.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/undoSave.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Updating Steam Server w/ Achievement Data
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Loading map file: any23
+Loading map file: anyAE20
+Loading map file: anyAE18
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/profile.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Starting Battle Music!
+Starting track = event:/music/acid/combat_detritus
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Already Spawning = 0
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Renaming file profile_Alpha\undoSave.lua -> profile_Alpha\undoLastSave.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\undoSave.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/profile.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/saveData.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/undoSave.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Already Spawning = 1
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Renaming file profile_Alpha\undoSave.lua -> profile_Alpha\undoLastSave.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\undoSave.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/profile.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/saveData.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/undoSave.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\undoSave.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Renaming file profile_Alpha\undoSave.lua -> profile_Alpha\undoLastSave.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\undoSave.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/profile.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/saveData.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/undoSave.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Renaming file profile_Alpha\undoSave.lua -> profile_Alpha\undoLastSave.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\undoSave.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/profile.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/saveData.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/undoSave.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Starting track = event:/music/acid/combat_synth
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/profile.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Starting Battle Music!
+Starting track = event:/music/general/ominous_master
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Already Spawning = 0
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Renaming file profile_Alpha\undoSave.lua -> profile_Alpha\undoLastSave.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\undoSave.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/profile.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/saveData.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/undoSave.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Already Spawning = 0
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Renaming file profile_Alpha\undoSave.lua -> profile_Alpha\undoLastSave.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\undoSave.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/profile.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/saveData.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/undoSave.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Already Spawning = 0
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Renaming file profile_Alpha\undoSave.lua -> profile_Alpha\undoLastSave.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\undoSave.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/profile.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/saveData.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/undoSave.lua... Ok
+Starting track = event:/music/acid/combat_new
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Renaming file profile_Alpha\undoSave.lua -> profile_Alpha\undoLastSave.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\undoSave.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/profile.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/saveData.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/undoSave.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/profile.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Starting Battle Music!
+Starting track = event:/music/acid/combat_detritus
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Already Spawning = 0
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Renaming file profile_Alpha\undoSave.lua -> profile_Alpha\undoLastSave.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\undoSave.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/profile.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/saveData.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/undoSave.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Already Spawning = 1
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Renaming file profile_Alpha\undoSave.lua -> profile_Alpha\undoLastSave.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\undoSave.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/profile.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/saveData.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/undoSave.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Starting track = event:/music/acid/combat_new
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Already Spawning = 0
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Renaming file profile_Alpha\undoSave.lua -> profile_Alpha\undoLastSave.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\undoSave.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/profile.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/saveData.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/undoSave.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Starting track = event:/music/general/ominous_master
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Renaming file profile_Alpha\undoSave.lua -> profile_Alpha\undoLastSave.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\undoSave.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/profile.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/saveData.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/undoSave.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Starting track = event:/music/acid/combat_detritus
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Updating Steam Server w/ Achievement Data
+Loading map file: anyAE37
+Loading map file: any27
+Save game cache: Opening file profile_Alpha\profile.lua... Ok
+Save game cache: Opening file profile_Alpha\saveData.lua... Ok
+Save game cache: Opening file settings.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/profile.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\profile_Alpha/saveData.lua... Ok
+Save game cache: Saving physical file C:\Users\cdr90\OneDrive\Documents\My Games\Into The Breach\settings.lua... Ok
