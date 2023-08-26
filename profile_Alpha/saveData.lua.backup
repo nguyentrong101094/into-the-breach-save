@@ -1,15 +1,15 @@
-GameData = {["save_version"] = 1, ["language"] = 1, ["network"] = 5, ["networkMax"] = 7, ["overflow"] = 0, ["seed"] = 9145, ["new_enemies"] = 0, ["new_missions"] = 0, ["new_equip"] = 0, ["difficulty"] = 1, ["new_abilities"] = 0, ["ach_info"] = {["squad"] = "Rust_A", ["trackers"] = {["Detritus_B_2"] = 0, ["Global_Challenge_Power"] = 0, ["Archive_A_1"] = 0, ["Archive_B_2"] = 0, ["Rust_A_2"] = 0, ["Rust_A_3"] = 3, ["Pinnacle_A_3"] = 0, ["Archive_B_1"] = 0, ["Pinnacle_B_3"] = 0, ["Detritus_B_1"] = 0, ["Pinnacle_B_1"] = 0, ["Global_Island_Mechs"] = 9, ["Global_Island_Building"] = 0, ["Squad_Mist_1"] = 0, ["Squad_Bomber_2"] = 0, ["Squad_Spiders_1"] = 0, ["Squad_Mist_2"] = 0, ["Squad_Heat_1"] = 0, ["Squad_Cataclysm_1"] = 0, ["Squad_Cataclysm_2"] = 0, ["Squad_Cataclysm_3"] = 0, },
+GameData = {["save_version"] = 1, ["language"] = 1, ["network"] = 5, ["networkMax"] = 7, ["overflow"] = 0, ["seed"] = 9145, ["new_enemies"] = 0, ["new_missions"] = 0, ["new_equip"] = 0, ["difficulty"] = 1, ["new_abilities"] = 0, ["ach_info"] = {["squad"] = "Rust_A", ["trackers"] = {["Detritus_B_2"] = 0, ["Global_Challenge_Power"] = 0, ["Archive_A_1"] = 0, ["Archive_B_2"] = 0, ["Rust_A_2"] = 0, ["Rust_A_3"] = 0, ["Pinnacle_A_3"] = 0, ["Archive_B_1"] = 0, ["Pinnacle_B_3"] = 0, ["Detritus_B_1"] = 0, ["Pinnacle_B_1"] = 0, ["Global_Island_Mechs"] = 9, ["Global_Island_Building"] = 0, ["Squad_Mist_1"] = 0, ["Squad_Bomber_2"] = 0, ["Squad_Spiders_1"] = 0, ["Squad_Mist_2"] = 0, ["Squad_Heat_1"] = 0, ["Squad_Cataclysm_1"] = 0, ["Squad_Cataclysm_2"] = 0, ["Squad_Cataclysm_3"] = 0, },
 },
 
 
-["current"] = {["score"] = 12722, ["time"] = 20976326.000000, ["kills"] = 96, ["damage"] = 0, ["failures"] = 2, ["difficulty"] = 1, ["victory"] = false, ["islands"] = 2, ["squad"] = 1, 
+["current"] = {["score"] = 13640, ["time"] = 22008236.000000, ["kills"] = 100, ["damage"] = 0, ["failures"] = 2, ["difficulty"] = 1, ["victory"] = false, ["islands"] = 2, ["squad"] = 1, 
 ["mechs"] = {"JetMech", "RocketMech", "PulseMech", },
 ["colors"] = {1, 1, 1, },
-["weapons"] = {"Brute_Jetmech_B", "DeploySkill_ShieldTank", "Ranged_Rocket_A", "Ranged_Wide_B", "Science_Repulse", "Science_FreezeBeam", },
+["weapons"] = {"Brute_Jetmech_B", "DeploySkill_ShieldTank_B", "Ranged_Rocket_A", "Ranged_Wide_B", "Science_Repulse", "Science_FreezeBeam", },
 ["pilot0"] = {["id"] = "Pilot_Miner", ["name"] = "Silica", ["name_id"] = "Pilot_Miner_Name", ["renamed"] = false, ["skill1"] = 0, ["skill2"] = 3, ["exp"] = 13, ["level"] = 2, ["travel"] = 0, ["final"] = 0, ["starting"] = false, ["power"] = {0, 0, },
 },
 ["pilot1"] = {["id"] = "Pilot_Original", ["name"] = "Ralph Karlsson", ["name_id"] = "Pilot_Original_Name", ["renamed"] = false, ["skill1"] = 0, ["skill2"] = 3, ["exp"] = 50, ["level"] = 2, ["travel"] = 1, ["final"] = 1, ["starting"] = true, ["last_end"] = 1, },
-["pilot2"] = {["id"] = "Pilot_Recycler", ["name"] = "Prospero", ["name_id"] = "Pilot_Recycler_Name", ["renamed"] = false, ["skill1"] = 3, ["skill2"] = 2, ["exp"] = 0, ["level"] = 2, ["travel"] = 0, ["final"] = 0, ["starting"] = false, ["power"] = {1, },
+["pilot2"] = {["id"] = "Pilot_Recycler", ["name"] = "Prospero", ["name_id"] = "Pilot_Recycler_Name", ["renamed"] = false, ["skill1"] = 3, ["skill2"] = 2, ["exp"] = 1, ["level"] = 2, ["travel"] = 0, ["final"] = 0, ["starting"] = false, ["power"] = {1, },
 },
 },
 ["current_squad"] = 1, }
@@ -22,88 +22,86 @@ RegionData = {
 ["island2"] = {["corporation"] = "Corp_Snow", ["id"] = 2, ["secured"] = true, },
 ["island3"] = {["corporation"] = "Corp_Factory", ["id"] = 3, ["secured"] = true, },
 
-["turn"] = 3, ["iTower"] = 1, ["quest_tracker"] = 0, ["quest_id"] = 0, ["podRewards"] = {},
+["turn"] = 4, ["iTower"] = 1, ["quest_tracker"] = 0, ["quest_id"] = 0, ["podRewards"] = {},
 
 
-["region0"] = {["mission"] = "Mission3", ["state"] = 0, ["name"] = "Colonial Park", },
-
-["region1"] = {["mission"] = "", ["state"] = 2, ["name"] = "Corporate HQ", ["objectives"] = {},
+["region0"] = {["mission"] = "", ["state"] = 3, ["name"] = "Colonial Park", ["objectives"] = {},
 },
 
-["region2"] = {["mission"] = "Mission1", ["player"] = {["battle_type"] = 0, ["iCurrentTurn"] = 3, ["iTeamTurn"] = 1, ["iState"] = 0, ["sMission"] = "Mission1", ["iMissionType"] = 0, ["sBriefingMessage"] = "Mission_Satellite_Briefing_CEO_Grass_2", ["podReward"] = CreateEffect({weapon = "Support_Blizzard",cores = 1,}), ["secret"] = false, ["spawn_needed"] = false, ["env_time"] = 1000, ["actions"] = 0, ["iUndoTurn"] = 0, ["aiState"] = 3, ["aiDelay"] = 0.000000, ["aiSeed"] = 20699, ["victory"] = 2, ["undo_pawns"] = {},
+["region1"] = {["mission"] = "Mission8", ["player"] = {["battle_type"] = 1, ["iCurrentTurn"] = 3, ["iTeamTurn"] = 1, ["iState"] = 0, ["sMission"] = "Mission8", ["iMissionType"] = 0, ["sBriefingMessage"] = "Mission_BossGeneric_Briefing_CEO_Grass_1", ["podReward"] = CreateEffect({}), ["secret"] = false, ["spawn_needed"] = false, ["env_time"] = 1000, ["actions"] = 0, ["iUndoTurn"] = 1, ["aiState"] = 3, ["aiDelay"] = 0.000000, ["aiSeed"] = 16845, ["victory"] = 2, ["undo_pawns"] = {},
 
 
-["map_data"] = {["version"] = 7, ["dimensions"] = Point( 8, 8 ), ["name"] = "any26", ["enemy_kills"] = 5, 
-["map"] = {{["loc"] = Point( 0, 3 ), ["terrain"] = 0, ["undo_state"] = {["active"] = true, },
+["map_data"] = {["version"] = 7, ["dimensions"] = Point( 8, 8 ), ["name"] = "any23", ["enemy_kills"] = 1, 
+["map"] = {{["loc"] = Point( 0, 0 ), ["terrain"] = 4, },
+{["loc"] = Point( 0, 2 ), ["terrain"] = 6, },
+{["loc"] = Point( 0, 3 ), ["terrain"] = 1, ["populated"] = 1, ["people1"] = 81, ["people2"] = 0, ["health_max"] = 1, },
+{["loc"] = Point( 0, 4 ), ["terrain"] = 1, ["populated"] = 1, ["people1"] = 120, ["people2"] = 0, ["health_max"] = 1, },
+{["loc"] = Point( 1, 0 ), ["terrain"] = 4, },
+{["loc"] = Point( 1, 1 ), ["terrain"] = 4, },
+{["loc"] = Point( 1, 4 ), ["terrain"] = 0, ["smoke"] = 1, ["smoke"] = 1, },
+{["loc"] = Point( 1, 6 ), ["terrain"] = 1, ["populated"] = 1, ["unique"] = "str_tower1", ["people1"] = 119, ["people2"] = 0, ["health_max"] = 1, },
+{["loc"] = Point( 2, 0 ), ["terrain"] = 4, },
+{["loc"] = Point( 2, 1 ), ["terrain"] = 1, ["populated"] = 1, ["custom"] = "snow.png", ["people1"] = 80, ["people2"] = 0, ["health_max"] = 1, },
+{["loc"] = Point( 2, 2 ), ["terrain"] = 0, ["custom"] = "snow.png", ["grapple_targets"] = {2, },
 },
-{["loc"] = Point( 0, 5 ), ["terrain"] = 4, },
-{["loc"] = Point( 0, 6 ), ["terrain"] = 4, },
-{["loc"] = Point( 0, 7 ), ["terrain"] = 4, },
-{["loc"] = Point( 1, 1 ), ["terrain"] = 1, ["populated"] = 1, ["people1"] = 67, ["people2"] = 0, ["health_max"] = 1, },
-{["loc"] = Point( 1, 2 ), ["terrain"] = 1, ["populated"] = 1, ["people1"] = 70, ["people2"] = 0, ["health_max"] = 1, },
-{["loc"] = Point( 1, 5 ), ["terrain"] = 1, ["populated"] = 1, ["people1"] = 95, ["people2"] = 0, ["health_max"] = 1, },
-{["loc"] = Point( 1, 6 ), ["terrain"] = 4, },
-{["loc"] = Point( 1, 7 ), ["terrain"] = 4, },
-{["loc"] = Point( 2, 5 ), ["terrain"] = 1, ["populated"] = 1, ["people1"] = 96, ["people2"] = 0, ["health_max"] = 1, ["shield"] = true, },
-{["loc"] = Point( 2, 6 ), ["terrain"] = 1, ["populated"] = 1, ["people1"] = 172, ["people2"] = 0, ["health_max"] = 2, },
-{["loc"] = Point( 2, 7 ), ["terrain"] = 4, },
-{["loc"] = Point( 3, 5 ), ["terrain"] = 0, ["undo_state"] = {["active"] = true, ["neighbor0"] = {["health"] = 1, ["max_health"] = 1, },
-},
-},
-{["loc"] = Point( 4, 0 ), ["terrain"] = 4, },
-{["loc"] = Point( 4, 1 ), ["terrain"] = 1, ["populated"] = 1, ["people1"] = 203, ["people2"] = 0, ["health_max"] = 2, },
-{["loc"] = Point( 4, 2 ), ["terrain"] = 1, ["populated"] = 1, ["grappled"] = 1, ["people1"] = 132, ["people2"] = 0, ["health_max"] = 2, },
-{["loc"] = Point( 4, 3 ), ["terrain"] = 0, ["pod"] = 3, ["grapple_targets"] = {0, },
-},
-{["loc"] = Point( 4, 4 ), ["terrain"] = 0, ["custom"] = "square_missilesilo2.png", },
-{["loc"] = Point( 4, 5 ), ["terrain"] = 0, ["smoke"] = 1, ["smoke"] = 1, },
-{["loc"] = Point( 4, 6 ), ["terrain"] = 0, ["custom"] = "square_missilesilo.png", },
-{["loc"] = Point( 4, 7 ), ["terrain"] = 0, ["undo_state"] = {["active"] = true, ["neighbor0"] = {["health"] = 2, ["max_health"] = 2, },
+{["loc"] = Point( 2, 3 ), ["terrain"] = 0, ["custom"] = "snow.png", ["frozen"] = true, ["grappled"] = 1, },
+{["loc"] = Point( 2, 4 ), ["terrain"] = 6, ["undo_state"] = {["terrain"] = 6, ["active"] = true, ["neighbor0"] = {["health"] = 3, ["max_health"] = 4, },
+["neighbor2"] = {["health"] = 5, ["max_health"] = 5, },
 },
 },
-{["loc"] = Point( 5, 0 ), ["terrain"] = 4, },
-{["loc"] = Point( 5, 1 ), ["terrain"] = 4, },
-{["loc"] = Point( 5, 2 ), ["terrain"] = 1, ["populated"] = 1, ["people1"] = 83, ["people2"] = 0, ["health_max"] = 2, ["health_min"] = 1, },
-{["loc"] = Point( 5, 5 ), ["terrain"] = 6, },
-{["loc"] = Point( 5, 7 ), ["terrain"] = 4, },
-{["loc"] = Point( 6, 0 ), ["terrain"] = 4, },
-{["loc"] = Point( 6, 1 ), ["terrain"] = 4, },
-{["loc"] = Point( 6, 2 ), ["terrain"] = 4, },
-{["loc"] = Point( 6, 3 ), ["terrain"] = 0, ["undo_state"] = {["active"] = true, ["neighbor2"] = {["health"] = 1, ["max_health"] = 4, },
-["neighbor3"] = {["health"] = 3, ["max_health"] = 3, },
+{["loc"] = Point( 2, 5 ), ["terrain"] = 0, ["undo_state"] = {["active"] = true, ["neighbor0"] = {["health"] = 5, ["max_health"] = 5, },
+["neighbor1"] = {["health"] = 4, ["max_health"] = 4, },
 },
 },
-{["loc"] = Point( 6, 4 ), ["terrain"] = 0, ["custom"] = "snow.png", ["frozen"] = true, },
-{["loc"] = Point( 6, 5 ), ["terrain"] = 0, ["custom"] = "snow.png", ["frozen"] = true, },
-{["loc"] = Point( 6, 6 ), ["terrain"] = 0, ["custom"] = "snow.png", },
-{["loc"] = Point( 6, 7 ), ["terrain"] = 0, ["custom"] = "snow.png", },
+{["loc"] = Point( 2, 6 ), ["terrain"] = 1, ["populated"] = 1, ["people1"] = 202, ["people2"] = 0, ["health_max"] = 2, },
+{["loc"] = Point( 3, 0 ), ["terrain"] = 0, },
+{["loc"] = Point( 3, 1 ), ["terrain"] = 6, },
+{["loc"] = Point( 3, 2 ), ["terrain"] = 0, ["fire"] = 2, },
+{["loc"] = Point( 3, 3 ), ["terrain"] = 4, },
+{["loc"] = Point( 3, 4 ), ["terrain"] = 1, ["populated"] = 1, ["people1"] = 166, ["people2"] = 0, ["health_max"] = 2, },
+{["loc"] = Point( 3, 5 ), ["terrain"] = 0, ["grappled"] = 1, },
+{["loc"] = Point( 3, 6 ), ["terrain"] = 0, ["smoke"] = 1, ["smoke"] = 1, },
+{["loc"] = Point( 3, 7 ), ["terrain"] = 6, ["undo_state"] = {["terrain"] = 6, ["active"] = true, ["neighbor0"] = {["health"] = 4, ["max_health"] = 4, },
+},
+},
+{["loc"] = Point( 4, 1 ), ["terrain"] = 0, },
+{["loc"] = Point( 4, 3 ), ["terrain"] = 4, ["health_max"] = 2, ["health_min"] = 1, },
+{["loc"] = Point( 4, 4 ), ["terrain"] = 4, },
+{["loc"] = Point( 4, 5 ), ["terrain"] = 0, ["grapple_targets"] = {3, },
+},
+{["loc"] = Point( 5, 2 ), ["terrain"] = 0, ["fire"] = 2, },
+{["loc"] = Point( 5, 3 ), ["terrain"] = 6, },
+{["loc"] = Point( 5, 6 ), ["terrain"] = 0, ["grapple_targets"] = {2, },
+},
+{["loc"] = Point( 5, 7 ), ["terrain"] = 1, ["populated"] = 1, ["grappled"] = 1, ["people1"] = 232, ["people2"] = 0, ["health_max"] = 2, },
+{["loc"] = Point( 6, 3 ), ["terrain"] = 6, },
+{["loc"] = Point( 6, 7 ), ["terrain"] = 4, ["health_max"] = 2, ["health_min"] = 1, },
 {["loc"] = Point( 7, 0 ), ["terrain"] = 4, },
-{["loc"] = Point( 7, 1 ), ["terrain"] = 4, },
-{["loc"] = Point( 7, 2 ), ["terrain"] = 4, },
-{["loc"] = Point( 7, 3 ), ["terrain"] = 4, },
+{["loc"] = Point( 7, 3 ), ["terrain"] = 6, },
+{["loc"] = Point( 7, 4 ), ["terrain"] = 6, },
 },
-["pod"] = Point(4,3), ["spawns"] = {"Digger1", "Hornet2", "Scorpion2", },
-["spawn_ids"] = {214, 244, 245, },
-["spawn_points"] = {Point(6,3), Point(7,4), Point(5,3), },
-["zones"] = {["satellite"] = {Point( 2, 3 ), Point( 4, 4 ), Point( 4, 5 ), Point( 4, 6 ), Point( 5, 6 ), Point( 5, 5 ), Point( 5, 4 ), },
+["pod"] = Point(5,3), ["rain"] = 3, ["rain_type"] = 0, ["spawns"] = {"Hornet1", "Scarab1", },
+["spawn_ids"] = {306, 307, },
+["spawn_points"] = {Point(5,5), Point(6,4), },
+["zones"] = {["satellite"] = {Point( 5, 4 ), Point( 4, 1 ), Point( 5, 1 ), Point( 6, 6 ), },
 },
 ["tags"] = {"generic", "any_sector", "mountain", "satellite", },
 
 
 ["pawn1"] = {["type"] = "JetMech", ["name"] = "", ["id"] = 0, ["mech"] = true, ["offset"] = 1, 
-["reactor"] = {["iNormalPower"] = 0, ["iUsedPower"] = 3, ["iBonusPower"] = 0, ["iUsedBonus"] = 1, ["iUndoPower"] = 0, ["iUsedUndo"] = 0, },
+["reactor"] = {["iNormalPower"] = 0, ["iUsedPower"] = 4, ["iBonusPower"] = 0, ["iUsedBonus"] = 1, ["iUndoPower"] = 0, ["iUsedUndo"] = 0, },
 ["movePower"] = {0, },
 ["healthPower"] = {0, },
 ["primary"] = "Brute_Jetmech", ["primary_power"] = {},
 ["primary_power_class"] = false, ["primary_mod1"] = {0, 0, },
-["primary_mod2"] = {1, 2, },
+["primary_mod2"] = {1, 1, },
 ["primary_damaged"] = false, ["primary_starting"] = true, ["primary_uses"] = 1, ["secondary"] = "DeploySkill_ShieldTank", ["secondary_power"] = {1, 1, },
 ["secondary_power_class"] = false, ["secondary_mod1"] = {0, },
-["secondary_mod2"] = {0, },
+["secondary_mod2"] = {2, },
 ["secondary_damaged"] = false, ["secondary_starting"] = true, ["secondary_uses"] = 0, ["pilot"] = {["id"] = "Pilot_Miner", ["name"] = "Silica", ["name_id"] = "Pilot_Miner_Name", ["renamed"] = false, ["skill1"] = 0, ["skill2"] = 3, ["exp"] = 13, ["level"] = 2, ["travel"] = 0, ["final"] = 0, ["starting"] = false, ["power"] = {0, 0, },
 },
 ["iTeamId"] = 1, ["timebonus"] = false, ["iFaction"] = 0, ["iKills"] = 0, ["is_corpse"] = true, ["health"] = 4, ["max_health"] = 4, ["undo_state"] = {["health"] = 4, ["max_health"] = 4, },
-["undo_ready"] = false, ["undo_point"] = Point(4,7), ["iMissionDamage"] = 0, ["location"] = Point(4,7), ["last_location"] = Point(4,6), ["bActive"] = true, ["iCurrentWeapon"] = 0, ["iTurnCount"] = 3, ["iTurnsRemaining"] = 2, ["undoPosition"] = Point(4,7), ["undoReady"] = false, ["iKillCount"] = 0, ["iOwner"] = 0, ["piTarget"] = Point(4,3), ["piOrigin"] = Point(4,7), ["piQueuedShot"] = Point(-1,-1), ["iQueuedSkill"] = -1, ["priorityTarget"] = Point(-1,-1), ["targetHistory"] = Point(4,3), },
+["undo_ready"] = false, ["undo_point"] = Point(3,5), ["iMissionDamage"] = 0, ["location"] = Point(3,5), ["last_location"] = Point(5,5), ["bActive"] = true, ["iCurrentWeapon"] = 0, ["iTurnCount"] = 3, ["iTurnsRemaining"] = 2, ["undoPosition"] = Point(3,5), ["undoReady"] = false, ["iKillCount"] = 0, ["iOwner"] = 0, ["piTarget"] = Point(3,7), ["piOrigin"] = Point(3,5), ["piQueuedShot"] = Point(-1,-1), ["iQueuedSkill"] = -1, ["priorityTarget"] = Point(-1,-1), ["targetHistory"] = Point(3,7), },
 
 
 ["pawn2"] = {["type"] = "RocketMech", ["name"] = "", ["id"] = 1, ["mech"] = true, ["offset"] = 1, 
@@ -117,8 +115,8 @@ RegionData = {
 ["secondary_power_class"] = false, ["secondary_mod1"] = {0, },
 ["secondary_mod2"] = {1, 2, },
 ["secondary_damaged"] = false, ["secondary_starting"] = true, ["secondary_uses"] = 0, ["pilot"] = {["id"] = "Pilot_Original", ["name"] = "Ralph Karlsson", ["name_id"] = "Pilot_Original_Name", ["renamed"] = false, ["skill1"] = 0, ["skill2"] = 3, ["exp"] = 50, ["level"] = 2, ["travel"] = 1, ["final"] = 1, ["starting"] = true, ["last_end"] = 1, },
-["iTeamId"] = 1, ["timebonus"] = false, ["iFaction"] = 0, ["iKills"] = 3, ["is_corpse"] = true, ["health"] = 5, ["max_health"] = 5, ["undo_state"] = {["health"] = 5, ["max_health"] = 5, },
-["undo_ready"] = false, ["undo_point"] = Point(0,3), ["iMissionDamage"] = 0, ["location"] = Point(0,3), ["last_location"] = Point(0,4), ["bActive"] = true, ["iCurrentWeapon"] = 0, ["iTurnCount"] = 3, ["iTurnsRemaining"] = 2, ["undoPosition"] = Point(0,3), ["undoReady"] = false, ["iKillCount"] = 14, ["iOwner"] = 1, ["piTarget"] = Point(2,3), ["piOrigin"] = Point(0,3), ["piQueuedShot"] = Point(-1,-1), ["iQueuedSkill"] = -1, ["priorityTarget"] = Point(-1,-1), ["targetHistory"] = Point(2,3), },
+["iTeamId"] = 1, ["timebonus"] = false, ["iFaction"] = 0, ["iKills"] = 1, ["is_corpse"] = true, ["health"] = 5, ["max_health"] = 5, ["undo_state"] = {["health"] = 5, ["max_health"] = 5, },
+["undo_ready"] = false, ["undo_point"] = Point(2,5), ["iMissionDamage"] = 0, ["location"] = Point(2,5), ["last_location"] = Point(2,4), ["bActive"] = true, ["iCurrentWeapon"] = 0, ["iTurnCount"] = 3, ["iTurnsRemaining"] = 2, ["undoPosition"] = Point(2,5), ["undoReady"] = false, ["iKillCount"] = 8, ["iOwner"] = 1, ["piTarget"] = Point(5,5), ["piOrigin"] = Point(2,5), ["piQueuedShot"] = Point(-1,-1), ["iQueuedSkill"] = -1, ["priorityTarget"] = Point(-1,-1), ["targetHistory"] = Point(5,5), },
 
 
 ["pawn3"] = {["type"] = "PulseMech", ["name"] = "", ["id"] = 2, ["mech"] = true, ["offset"] = 1, 
@@ -131,41 +129,58 @@ RegionData = {
 ["primary_damaged"] = false, ["primary_starting"] = true, ["primary_uses"] = 1, ["secondary"] = "Science_FreezeBeam", ["secondary_power"] = {1, },
 ["secondary_power_class"] = false, ["secondary_mod1"] = {0, 0, },
 ["secondary_mod2"] = {0, },
-["secondary_damaged"] = false, ["secondary_starting"] = true, ["secondary_uses"] = 0, ["pilot"] = {["id"] = "Pilot_Recycler", ["name"] = "Prospero", ["name_id"] = "Pilot_Recycler_Name", ["renamed"] = false, ["skill1"] = 3, ["skill2"] = 2, ["exp"] = 0, ["level"] = 2, ["travel"] = 0, ["final"] = 0, ["starting"] = false, ["power"] = {1, },
+["secondary_damaged"] = false, ["secondary_starting"] = true, ["secondary_uses"] = 0, ["pilot"] = {["id"] = "Pilot_Recycler", ["name"] = "Prospero", ["name_id"] = "Pilot_Recycler_Name", ["renamed"] = false, ["skill1"] = 3, ["skill2"] = 2, ["exp"] = 1, ["level"] = 2, ["travel"] = 0, ["final"] = 0, ["starting"] = false, ["power"] = {1, },
 },
-["iTeamId"] = 1, ["timebonus"] = false, ["iFaction"] = 0, ["iKills"] = 0, ["is_corpse"] = true, ["health"] = 1, ["max_health"] = 5, ["undo_state"] = {["health"] = 2, ["max_health"] = 5, },
-["undo_ready"] = false, ["undo_point"] = Point(6,3), ["iMissionDamage"] = 0, ["location"] = Point(6,3), ["last_location"] = Point(5,3), ["bActive"] = true, ["iCurrentWeapon"] = 0, ["iTurnCount"] = 3, ["iTurnsRemaining"] = 2, ["undoPosition"] = Point(6,3), ["undoReady"] = false, ["iKillCount"] = 0, ["iOwner"] = 2, ["piTarget"] = Point(6,4), ["piOrigin"] = Point(6,3), ["piQueuedShot"] = Point(-1,-1), ["iQueuedSkill"] = -1, ["priorityTarget"] = Point(-1,-1), ["targetHistory"] = Point(6,5), },
+["iTeamId"] = 1, ["timebonus"] = false, ["iFaction"] = 0, ["iKills"] = 0, ["is_corpse"] = true, ["health"] = 5, ["max_health"] = 5, ["undo_state"] = {["health"] = 5, ["max_health"] = 5, },
+["undo_ready"] = false, ["undo_point"] = Point(2,4), ["iMissionDamage"] = 0, ["location"] = Point(2,4), ["last_location"] = Point(2,3), ["bActive"] = true, ["iCurrentWeapon"] = 0, ["iTurnCount"] = 3, ["iTurnsRemaining"] = 2, ["undoPosition"] = Point(2,4), ["undoReady"] = false, ["iKillCount"] = 0, ["iOwner"] = 2, ["piTarget"] = Point(2,1), ["piOrigin"] = Point(2,4), ["piQueuedShot"] = Point(-1,-1), ["iQueuedSkill"] = -1, ["priorityTarget"] = Point(-1,-1), ["targetHistory"] = Point(2,1), },
 
 
-["pawn4"] = {["type"] = "Deploy_ShieldTank", ["name"] = "", ["id"] = 242, ["mech"] = false, ["offset"] = 0, ["owner"] = 0, ["primary"] = "Deploy_ShieldTankShot", ["primary_uses"] = 1, ["iTeamId"] = 1, ["timebonus"] = false, ["iFaction"] = 0, ["iKills"] = 0, ["is_corpse"] = false, ["health"] = 1, ["max_health"] = 1, ["undo_state"] = {["health"] = 1, ["max_health"] = 1, },
-["undo_ready"] = false, ["undo_point"] = Point(3,5), ["iMissionDamage"] = 0, ["location"] = Point(3,5), ["last_location"] = Point(4,5), ["bActive"] = true, ["iCurrentWeapon"] = 0, ["iTurnCount"] = 1, ["iTurnsRemaining"] = 2, ["undoPosition"] = Point(3,5), ["undoReady"] = false, ["iKillCount"] = 0, ["iOwner"] = 242, ["piTarget"] = Point(2,5), ["piOrigin"] = Point(3,5), ["piQueuedShot"] = Point(-1,-1), ["iQueuedSkill"] = -1, ["priorityTarget"] = Point(-1,-1), ["targetHistory"] = Point(2,5), },
+["pawn4"] = {["type"] = "Deploy_ShieldTankB", ["name"] = "", ["id"] = 301, ["mech"] = false, ["offset"] = 0, ["owner"] = 0, ["primary"] = "Deploy_ShieldTankShot2", ["primary_uses"] = 1, ["iTeamId"] = 1, ["timebonus"] = false, ["iFaction"] = 0, ["iKills"] = 0, ["is_corpse"] = false, ["health"] = 1, ["max_health"] = 1, ["undo_state"] = {["health"] = 5, ["max_health"] = 5, },
+["undo_ready"] = false, ["undo_point"] = Point(-1,-1), ["iMissionDamage"] = 0, ["location"] = Point(3,7), ["last_location"] = Point(3,6), ["bActive"] = true, ["iCurrentWeapon"] = 0, ["iTurnCount"] = 1, ["iTurnsRemaining"] = 2, ["undoPosition"] = Point(-1,-1), ["undoReady"] = false, ["iKillCount"] = 0, ["iOwner"] = 301, ["piTarget"] = Point(3,7), ["piOrigin"] = Point(3,7), ["piQueuedShot"] = Point(-1,-1), ["iQueuedSkill"] = -1, ["priorityTarget"] = Point(-1,-1), ["targetHistory"] = Point(3,5), },
 
 
-["pawn5"] = {["type"] = "Scarab2", ["name"] = "", ["id"] = 14, ["mech"] = false, ["offset"] = 1, ["primary"] = "ScarabAtk2", ["primary_uses"] = 1, ["iTeamId"] = 6, ["timebonus"] = false, ["iFaction"] = 0, ["iKills"] = 0, ["is_corpse"] = false, ["bFrozen"] = true, ["health"] = 1, ["max_health"] = 4, ["undo_state"] = {["health"] = 5, ["max_health"] = 5, },
-["undo_ready"] = false, ["undo_point"] = Point(-1,-1), ["iMissionDamage"] = 0, ["location"] = Point(6,4), ["last_location"] = Point(6,4), ["iCurrentWeapon"] = 1, ["iTurnCount"] = 3, ["iTurnsRemaining"] = 3, ["undoPosition"] = Point(-1,-1), ["undoReady"] = false, ["iKillCount"] = 0, ["iOwner"] = 14, ["piTarget"] = Point(4,4), ["piOrigin"] = Point(6,4), ["piQueuedShot"] = Point(-1,-1), ["iQueuedSkill"] = -1, ["priorityTarget"] = Point(-1,-1), ["targetHistory"] = Point(4,4), },
+["pawn5"] = {["type"] = "Scorpion1", ["name"] = "", ["id"] = 255, ["mech"] = false, ["offset"] = 0, ["primary"] = "ScorpionAtk1", ["primary_uses"] = 1, ["iTeamId"] = 6, ["timebonus"] = false, ["iFaction"] = 0, ["iKills"] = 0, ["is_corpse"] = false, ["health"] = 3, ["max_health"] = 3, ["undo_state"] = {["health"] = 5, ["max_health"] = 5, },
+["undo_ready"] = false, ["undo_point"] = Point(-1,-1), ["iMissionDamage"] = 0, ["location"] = Point(2,2), ["last_location"] = Point(3,2), ["iCurrentWeapon"] = 1, ["iTurnCount"] = 3, ["iTurnsRemaining"] = 3, ["undoPosition"] = Point(-1,-1), ["undoReady"] = false, ["iKillCount"] = 0, ["iOwner"] = 255, ["piTarget"] = Point(2,3), ["piOrigin"] = Point(2,2), ["piQueuedShot"] = Point(2,3), ["iQueuedSkill"] = 1, ["priorityTarget"] = Point(-1,-1), ["targetHistory"] = Point(2,3), },
 
 
-["pawn6"] = {["type"] = "Scorpion1", ["name"] = "", ["id"] = 198, ["mech"] = false, ["offset"] = 0, ["primary"] = "ScorpionAtk1", ["primary_uses"] = 1, ["iTeamId"] = 6, ["timebonus"] = false, ["iFaction"] = 0, ["iKills"] = 0, ["is_corpse"] = false, ["bFrozen"] = true, ["health"] = 3, ["max_health"] = 3, ["undo_state"] = {["health"] = 5, ["max_health"] = 5, },
-["undo_ready"] = false, ["undo_point"] = Point(-1,-1), ["iMissionDamage"] = 0, ["location"] = Point(6,5), ["last_location"] = Point(6,5), ["iCurrentWeapon"] = 1, ["iTurnCount"] = 1, ["iTurnsRemaining"] = 3, ["undoPosition"] = Point(-1,-1), ["undoReady"] = false, ["iKillCount"] = 0, ["iOwner"] = 198, ["piTarget"] = Point(5,5), ["piOrigin"] = Point(6,5), ["piQueuedShot"] = Point(-1,-1), ["iQueuedSkill"] = -1, ["priorityTarget"] = Point(-1,-1), ["targetHistory"] = Point(5,5), },
+["pawn6"] = {["type"] = "Hornet2", ["name"] = "", ["id"] = 256, ["mech"] = false, ["offset"] = 1, ["primary"] = "HornetAtk2", ["primary_uses"] = 1, ["iTeamId"] = 6, ["timebonus"] = false, ["iFaction"] = 0, ["iKills"] = 0, ["is_corpse"] = false, ["bFrozen"] = true, ["health"] = 3, ["max_health"] = 4, ["undo_state"] = {["health"] = 5, ["max_health"] = 5, },
+["undo_ready"] = false, ["undo_point"] = Point(-1,-1), ["iMissionDamage"] = 0, ["location"] = Point(2,3), ["last_location"] = Point(2,4), ["iCurrentWeapon"] = 1, ["iTurnCount"] = 3, ["iTurnsRemaining"] = 3, ["undoPosition"] = Point(-1,-1), ["undoReady"] = false, ["iKillCount"] = 0, ["iOwner"] = 256, ["piTarget"] = Point(2,2), ["piOrigin"] = Point(2,3), ["piQueuedShot"] = Point(-1,-1), ["iQueuedSkill"] = -1, ["priorityTarget"] = Point(-1,-1), ["targetHistory"] = Point(2,2), },
 
 
-["pawn7"] = {["type"] = "Scorpion1", ["name"] = "", ["id"] = 199, ["mech"] = false, ["offset"] = 0, ["primary"] = "ScorpionAtk1", ["primary_uses"] = 1, ["iTeamId"] = 6, ["timebonus"] = false, ["iFaction"] = 0, ["iKills"] = 0, ["is_corpse"] = false, ["health"] = 3, ["max_health"] = 3, ["undo_state"] = {["health"] = 5, ["max_health"] = 5, },
-["undo_ready"] = false, ["undo_point"] = Point(-1,-1), ["iMissionDamage"] = 0, ["location"] = Point(4,3), ["last_location"] = Point(5,3), ["iCurrentWeapon"] = 1, ["iTurnCount"] = 1, ["iTurnsRemaining"] = 3, ["undoPosition"] = Point(-1,-1), ["undoReady"] = false, ["iKillCount"] = 0, ["iOwner"] = 199, ["piTarget"] = Point(4,2), ["piOrigin"] = Point(4,3), ["piQueuedShot"] = Point(4,2), ["iQueuedSkill"] = 1, ["priorityTarget"] = Point(-1,-1), ["targetHistory"] = Point(4,2), },
+["pawn7"] = {["type"] = "Digger1", ["name"] = "", ["id"] = 257, ["mech"] = false, ["offset"] = 0, ["primary"] = "DiggerAtk1", ["primary_uses"] = 1, ["iTeamId"] = 6, ["timebonus"] = false, ["iFaction"] = 0, ["iKills"] = 0, ["is_corpse"] = false, ["health"] = 2, ["max_health"] = 2, ["undo_state"] = {["health"] = 5, ["max_health"] = 5, },
+["undo_ready"] = false, ["undo_point"] = Point(-1,-1), ["iMissionDamage"] = 0, ["location"] = Point(3,1), ["last_location"] = Point(3,2), ["iCurrentWeapon"] = 1, ["iTurnCount"] = 3, ["iTurnsRemaining"] = 3, ["undoPosition"] = Point(-1,-1), ["undoReady"] = false, ["iKillCount"] = 0, ["iOwner"] = 257, ["piTarget"] = Point(3,1), ["piOrigin"] = Point(3,1), ["piQueuedShot"] = Point(3,1), ["iQueuedSkill"] = 1, ["priorityTarget"] = Point(-1,-1), ["targetHistory"] = Point(3,1), },
 
 
-["pawn8"] = {["type"] = "Scarab1", ["name"] = "", ["id"] = 213, ["mech"] = false, ["offset"] = 0, ["primary"] = "ScarabAtk1", ["primary_uses"] = 1, ["iTeamId"] = 6, ["timebonus"] = false, ["iFaction"] = 0, ["iKills"] = 0, ["is_corpse"] = false, ["health"] = 2, ["max_health"] = 2, ["undo_state"] = {["health"] = 5, ["max_health"] = 5, },
-["undo_ready"] = false, ["undo_point"] = Point(-1,-1), ["iMissionDamage"] = 0, ["location"] = Point(5,5), ["last_location"] = Point(6,5), ["iCurrentWeapon"] = 1, ["iTurnCount"] = 0, ["iTurnsRemaining"] = 1065353216, ["undoPosition"] = Point(-1,-1), ["undoReady"] = false, ["iKillCount"] = 0, ["iOwner"] = 213, ["piTarget"] = Point(1,5), ["piOrigin"] = Point(5,5), ["piQueuedShot"] = Point(1,5), ["iQueuedSkill"] = 1, ["priorityTarget"] = Point(-1,-1), ["targetHistory"] = Point(1,5), },
+["pawn8"] = {["type"] = "Scorpion2", ["name"] = "", ["id"] = 297, ["mech"] = false, ["offset"] = 1, ["primary"] = "ScorpionAtk2", ["primary_uses"] = 1, ["iTeamId"] = 6, ["timebonus"] = false, ["iFaction"] = 0, ["iKills"] = 0, ["is_corpse"] = false, ["health"] = 2, ["max_health"] = 5, ["undo_state"] = {["health"] = 5, ["max_health"] = 5, },
+["undo_ready"] = false, ["undo_point"] = Point(-1,-1), ["iMissionDamage"] = 0, ["location"] = Point(5,6), ["last_location"] = Point(4,6), ["iCurrentWeapon"] = 1, ["iTurnCount"] = 1, ["iTurnsRemaining"] = 3, ["undoPosition"] = Point(-1,-1), ["undoReady"] = false, ["iKillCount"] = 0, ["iOwner"] = 297, ["piTarget"] = Point(5,7), ["piOrigin"] = Point(5,6), ["piQueuedShot"] = Point(5,7), ["iQueuedSkill"] = 1, ["priorityTarget"] = Point(-1,-1), ["targetHistory"] = Point(5,7), },
 
 
-["pawn9"] = {["type"] = "SatelliteRocket", ["name"] = "", ["id"] = 12, ["mech"] = false, ["offset"] = 0, ["primary"] = "Rocket_Launch", ["primary_uses"] = 1, ["iTeamId"] = 1, ["timebonus"] = false, ["iFaction"] = 0, ["iKills"] = 0, ["is_corpse"] = true, ["health"] = 2, ["max_health"] = 2, ["undo_state"] = {["health"] = 5, ["max_health"] = 5, },
-["undo_ready"] = false, ["undo_point"] = Point(-1,-1), ["iMissionDamage"] = 0, ["location"] = Point(4,6), ["last_location"] = Point(4,6), ["iCurrentWeapon"] = 0, ["iTurnCount"] = 3, ["iTurnsRemaining"] = 2, ["bPowered"] = false, ["undoPosition"] = Point(-1,-1), ["undoReady"] = false, ["iKillCount"] = 0, ["iOwner"] = 12, ["piTarget"] = Point(-1,-1), ["piOrigin"] = Point(-1,-1), ["piQueuedShot"] = Point(-1,-1), ["iQueuedSkill"] = -1, ["priorityTarget"] = Point(-1,-1), ["targetHistory"] = Point(-1,-1), },
-["pawn_count"] = 9, ["blocked_points"] = {},
+["pawn9"] = {["type"] = "Scorpion1", ["name"] = "", ["id"] = 296, ["mech"] = false, ["offset"] = 0, ["primary"] = "ScorpionAtk1", ["primary_uses"] = 1, ["iTeamId"] = 6, ["timebonus"] = false, ["iFaction"] = 0, ["iKills"] = 0, ["is_corpse"] = false, ["health"] = 3, ["max_health"] = 3, ["undo_state"] = {["health"] = 5, ["max_health"] = 5, },
+["undo_ready"] = false, ["undo_point"] = Point(-1,-1), ["iMissionDamage"] = 0, ["location"] = Point(4,5), ["last_location"] = Point(5,5), ["iCurrentWeapon"] = 1, ["iTurnCount"] = 0, ["iTurnsRemaining"] = 0, ["undoPosition"] = Point(-1,-1), ["undoReady"] = false, ["iKillCount"] = 0, ["iOwner"] = 296, ["piTarget"] = Point(3,5), ["piOrigin"] = Point(4,5), ["piQueuedShot"] = Point(3,5), ["iQueuedSkill"] = 1, ["priorityTarget"] = Point(-1,-1), ["targetHistory"] = Point(3,5), },
+
+
+["pawn10"] = {["type"] = "Wall", ["name"] = "", ["id"] = 303, ["mech"] = false, ["offset"] = 0, ["owner"] = 257, ["iTeamId"] = 2, ["timebonus"] = false, ["iFaction"] = 0, ["iKills"] = 0, ["is_corpse"] = false, ["health"] = 1, ["max_health"] = 1, ["undo_state"] = {["health"] = 5, ["max_health"] = 5, },
+["undo_ready"] = false, ["undo_point"] = Point(-1,-1), ["iMissionDamage"] = 0, ["location"] = Point(3,0), ["last_location"] = Point(-1,-1), ["iCurrentWeapon"] = 0, ["iTurnCount"] = 0, ["iTurnsRemaining"] = 0, ["undoPosition"] = Point(-1,-1), ["undoReady"] = false, ["iKillCount"] = 0, ["iOwner"] = 303, ["piTarget"] = Point(-1,-1), ["piOrigin"] = Point(-1,-1), ["piQueuedShot"] = Point(-1,-1), ["iQueuedSkill"] = -1, ["priorityTarget"] = Point(-1,-1), ["targetHistory"] = Point(-1,-1), },
+
+
+["pawn11"] = {["type"] = "Wall", ["name"] = "", ["id"] = 304, ["mech"] = false, ["offset"] = 0, ["owner"] = 257, ["iTeamId"] = 2, ["timebonus"] = false, ["iFaction"] = 0, ["iKills"] = 0, ["is_corpse"] = false, ["health"] = 1, ["max_health"] = 1, ["undo_state"] = {["health"] = 5, ["max_health"] = 5, },
+["undo_ready"] = false, ["undo_point"] = Point(-1,-1), ["iMissionDamage"] = 0, ["location"] = Point(4,1), ["last_location"] = Point(-1,-1), ["iCurrentWeapon"] = 0, ["iTurnCount"] = 0, ["iTurnsRemaining"] = 50, ["undoPosition"] = Point(-1,-1), ["undoReady"] = false, ["iKillCount"] = 0, ["iOwner"] = 304, ["piTarget"] = Point(-1,-1), ["piOrigin"] = Point(-1,-1), ["piQueuedShot"] = Point(-1,-1), ["iQueuedSkill"] = -1, ["priorityTarget"] = Point(-1,-1), ["targetHistory"] = Point(-1,-1), },
+
+
+["pawn12"] = {["type"] = "Wall", ["name"] = "", ["id"] = 305, ["mech"] = false, ["offset"] = 0, ["owner"] = 257, ["iTeamId"] = 2, ["timebonus"] = false, ["iFaction"] = 0, ["iKills"] = 0, ["is_corpse"] = false, ["bOnFire"] = true, ["health"] = 1, ["max_health"] = 1, ["undo_state"] = {["health"] = 5, ["max_health"] = 5, },
+["undo_ready"] = false, ["undo_point"] = Point(-1,-1), ["iMissionDamage"] = 0, ["location"] = Point(3,2), ["last_location"] = Point(-1,-1), ["iCurrentWeapon"] = 0, ["iTurnCount"] = 0, ["iTurnsRemaining"] = 0, ["undoPosition"] = Point(-1,-1), ["undoReady"] = false, ["iKillCount"] = 0, ["iOwner"] = 305, ["piTarget"] = Point(-1,-1), ["piOrigin"] = Point(-1,-1), ["piQueuedShot"] = Point(-1,-1), ["iQueuedSkill"] = -1, ["priorityTarget"] = Point(-1,-1), ["targetHistory"] = Point(-1,-1), },
+["pawn_count"] = 12, ["blocked_points"] = {},
 ["blocked_type"] = {},
 },
 
 
 },
-["state"] = 1, ["name"] = "Remembrance Point", },
+["state"] = 1, ["name"] = "Corporate HQ", },
+
+["region2"] = {["mission"] = "", ["state"] = 2, ["name"] = "Remembrance Point", ["objectives"] = {["0"] = {["text"] = "Mission_Satellite_Obj", ["param1"] = "", ["param2"] = "", ["value"] = 2, ["potential"] = 2, ["category"] = 0, },
+["1"] = {["text"] = "Pod_Objective", ["param1"] = "", ["param2"] = "", ["value"] = 1, ["potential"] = 1, ["category"] = 3, },
+},
+},
 
 ["region3"] = {["mission"] = "", ["state"] = 2, ["name"] = "Restoration Center", ["objectives"] = {["0"] = {["text"] = "Mission_Volatile_PreGame", ["param1"] = "", ["param2"] = "", ["value"] = 1, ["potential"] = 1, ["category"] = 0, },
 ["1"] = {["text"] = "Bonus_Simple_Asset", ["param1"] = "Str_Nimbus_Name", ["param2"] = "", ["value"] = 1, ["potential"] = 1, ["category"] = 1, },
@@ -183,115 +198,14 @@ RegionData = {
 },
 },
 
-["region6"] = {["mission"] = "Mission5", ["player"] = {["battle_type"] = 0, ["iCurrentTurn"] = 0, ["iTeamTurn"] = 1, ["iState"] = 4, ["sMission"] = "Mission5", ["iMissionType"] = 0, ["sBriefingMessage"] = "Mission_Artillery_Briefing_CEO_Grass_1", ["podReward"] = CreateEffect({}), ["secret"] = false, ["spawn_needed"] = false, ["env_time"] = 1000, ["actions"] = 0, ["iUndoTurn"] = 1, ["aiState"] = 0, ["aiDelay"] = 0.000000, ["aiSeed"] = 7322, ["victory"] = 2, ["undo_pawns"] = {},
-
-
-["map_data"] = {["version"] = 7, ["dimensions"] = Point( 8, 8 ), ["name"] = "anyAE26", ["enemy_kills"] = 0, 
-["map"] = {{["loc"] = Point( 0, 0 ), ["terrain"] = 6, },
-{["loc"] = Point( 0, 1 ), ["terrain"] = 1, ["populated"] = 1, ["people1"] = 85, ["people2"] = 0, ["health_max"] = 1, ["shield"] = true, },
-{["loc"] = Point( 0, 2 ), ["terrain"] = 3, },
-{["loc"] = Point( 0, 3 ), ["terrain"] = 1, ["populated"] = 1, ["people1"] = 119, ["people2"] = 0, ["health_max"] = 1, },
-{["loc"] = Point( 0, 5 ), ["terrain"] = 6, },
-{["loc"] = Point( 0, 7 ), ["terrain"] = 6, },
-{["loc"] = Point( 1, 2 ), ["terrain"] = 3, },
-{["loc"] = Point( 1, 3 ), ["terrain"] = 6, },
-{["loc"] = Point( 1, 5 ), ["terrain"] = 1, ["populated"] = 1, ["people1"] = 112, ["people2"] = 0, ["health_max"] = 1, },
-{["loc"] = Point( 1, 6 ), ["terrain"] = 1, ["populated"] = 1, ["people1"] = 115, ["people2"] = 0, ["health_max"] = 1, ["shield"] = true, },
-{["loc"] = Point( 1, 7 ), ["terrain"] = 3, },
-{["loc"] = Point( 2, 2 ), ["terrain"] = 1, ["populated"] = 1, ["people1"] = 203, ["people2"] = 0, ["health_max"] = 2, ["shield"] = true, },
-{["loc"] = Point( 2, 6 ), ["terrain"] = 3, },
-{["loc"] = Point( 2, 7 ), ["terrain"] = 3, },
-{["loc"] = Point( 3, 2 ), ["terrain"] = 0, },
-{["loc"] = Point( 3, 6 ), ["terrain"] = 3, },
-{["loc"] = Point( 4, 1 ), ["terrain"] = 1, ["populated"] = 1, ["people1"] = 165, ["people2"] = 0, ["health_max"] = 2, },
-{["loc"] = Point( 4, 3 ), ["terrain"] = 1, ["populated"] = 1, ["people1"] = 201, ["people2"] = 0, ["health_max"] = 2, },
-{["loc"] = Point( 4, 6 ), ["terrain"] = 3, },
-{["loc"] = Point( 5, 1 ), ["terrain"] = 3, },
-{["loc"] = Point( 5, 2 ), ["terrain"] = 3, },
-{["loc"] = Point( 5, 4 ), ["terrain"] = 6, },
-{["loc"] = Point( 6, 1 ), ["terrain"] = 3, },
-{["loc"] = Point( 6, 2 ), ["terrain"] = 3, },
-{["loc"] = Point( 6, 6 ), ["terrain"] = 3, },
-{["loc"] = Point( 7, 1 ), ["terrain"] = 6, },
-{["loc"] = Point( 7, 6 ), ["terrain"] = 3, },
-{["loc"] = Point( 7, 7 ), ["terrain"] = 3, },
-},
-["spawns"] = {"Scarab2", "Digger1", "Scorpion1", "Scorpion2", },
-["spawn_ids"] = {94, 95, 96, 97, },
-["spawn_points"] = {Point(6,5), Point(5,5), Point(7,3), Point(7,2), },
-["zones"] = {},
-["tags"] = {"generic", "any_sector", },
-
-
-["pawn1"] = {["type"] = "ArchiveArtillery", ["name"] = "", ["id"] = 93, ["mech"] = false, ["offset"] = 0, ["primary"] = "Archive_ArtShot", ["primary_uses"] = 1, ["pilot"] = {["id"] = "Pilot_Archive", ["name"] = "Ana Ferry", ["name_id"] = "", ["renamed"] = false, ["skill1"] = 0, ["skill2"] = 2, ["exp"] = 0, ["level"] = 0, ["travel"] = 0, ["final"] = 0, ["starting"] = false, },
-["iTeamId"] = 1, ["timebonus"] = false, ["iFaction"] = 0, ["iKills"] = 0, ["is_corpse"] = true, ["health"] = 2, ["max_health"] = 2, ["undo_state"] = {["health"] = 5, ["max_health"] = 5, },
-["undo_ready"] = false, ["undo_point"] = Point(-1,-1), ["iMissionDamage"] = 0, ["location"] = Point(3,2), ["last_location"] = Point(3,2), ["bActive"] = true, ["iCurrentWeapon"] = 0, ["iTurnCount"] = 0, ["iTurnsRemaining"] = 0, ["undoPosition"] = Point(-1,-1), ["undoReady"] = false, ["iKillCount"] = 0, ["iOwner"] = 93, ["piTarget"] = Point(-1,-1), ["piOrigin"] = Point(-1,-1), ["piQueuedShot"] = Point(-1,-1), ["iQueuedSkill"] = -1, ["priorityTarget"] = Point(-1,-1), ["targetHistory"] = Point(-1,-1), },
-["pawn_count"] = 1, ["blocked_points"] = {},
-["blocked_type"] = {},
+["region6"] = {["mission"] = "", ["state"] = 3, ["name"] = "Historic County", ["objectives"] = {},
 },
 
-
+["region7"] = {["mission"] = "", ["state"] = 3, ["name"] = "Relic Preserves", ["objectives"] = {["0"] = {["text"] = "Bonus_Simple_Vek", ["param1"] = "", ["param2"] = "", ["value"] = 1, ["potential"] = 1, ["category"] = 0, },
+["1"] = {["text"] = "Bonus_Simple_Asset", ["param1"] = "Str_Power_Name", ["param2"] = "", ["value"] = 1, ["potential"] = 1, ["category"] = 1, },
 },
-["state"] = 1, ["name"] = "Historic County", },
-
-["region7"] = {["mission"] = "Mission2", ["player"] = {["battle_type"] = 0, ["iCurrentTurn"] = 0, ["iTeamTurn"] = 1, ["iState"] = 4, ["sMission"] = "Mission2", ["iMissionType"] = 0, ["sBriefingMessage"] = "Mission_Mines_Briefing_CEO_Grass_3", ["podReward"] = CreateEffect({}), ["secret"] = false, ["spawn_needed"] = false, ["env_time"] = 1000, ["actions"] = 0, ["iUndoTurn"] = 1, ["aiState"] = 0, ["aiDelay"] = 0.000000, ["aiSeed"] = 14804, ["victory"] = 2, ["undo_pawns"] = {},
-
-
-["map_data"] = {["version"] = 7, ["dimensions"] = Point( 8, 8 ), ["name"] = "anyAE23", ["enemy_kills"] = 0, 
-["map"] = {{["loc"] = Point( 0, 0 ), ["terrain"] = 4, },
-{["loc"] = Point( 0, 1 ), ["terrain"] = 4, },
-{["loc"] = Point( 0, 2 ), ["terrain"] = 6, },
-{["loc"] = Point( 1, 0 ), ["terrain"] = 4, },
-{["loc"] = Point( 1, 1 ), ["terrain"] = 4, },
-{["loc"] = Point( 1, 2 ), ["terrain"] = 6, },
-{["loc"] = Point( 1, 3 ), ["terrain"] = 1, ["populated"] = 1, ["people1"] = 132, ["people2"] = 0, ["health_max"] = 1, },
-{["loc"] = Point( 1, 5 ), ["terrain"] = 0, ["item"] = "Item_Mine", },
-{["loc"] = Point( 1, 6 ), ["terrain"] = 1, ["populated"] = 1, ["people1"] = 98, ["people2"] = 0, ["health_max"] = 1, },
-{["loc"] = Point( 1, 7 ), ["terrain"] = 4, },
-{["loc"] = Point( 2, 0 ), ["terrain"] = 4, },
-{["loc"] = Point( 2, 1 ), ["terrain"] = 1, ["populated"] = 1, ["people1"] = 111, ["people2"] = 0, ["health_max"] = 1, },
-{["loc"] = Point( 2, 4 ), ["terrain"] = 0, ["item"] = "Item_Mine", },
-{["loc"] = Point( 2, 5 ), ["terrain"] = 0, ["item"] = "Item_Mine", },
-{["loc"] = Point( 2, 6 ), ["terrain"] = 1, ["populated"] = 1, ["people1"] = 89, ["people2"] = 0, ["health_max"] = 1, },
-{["loc"] = Point( 2, 7 ), ["terrain"] = 4, },
-{["loc"] = Point( 3, 0 ), ["terrain"] = 4, },
-{["loc"] = Point( 3, 1 ), ["terrain"] = 1, ["populated"] = 1, ["people1"] = 231, ["people2"] = 0, ["health_max"] = 2, },
-{["loc"] = Point( 3, 3 ), ["terrain"] = 6, },
-{["loc"] = Point( 3, 4 ), ["terrain"] = 1, ["populated"] = 1, ["unique"] = "str_power1", ["people1"] = 124, ["people2"] = 0, ["health_max"] = 1, },
-{["loc"] = Point( 3, 6 ), ["terrain"] = 4, },
-{["loc"] = Point( 3, 7 ), ["terrain"] = 4, },
-{["loc"] = Point( 4, 0 ), ["terrain"] = 4, },
-{["loc"] = Point( 4, 1 ), ["terrain"] = 1, ["populated"] = 1, ["people1"] = 215, ["people2"] = 0, ["health_max"] = 2, },
-{["loc"] = Point( 4, 5 ), ["terrain"] = 0, ["item"] = "Item_Mine", },
-{["loc"] = Point( 4, 6 ), ["terrain"] = 4, },
-{["loc"] = Point( 4, 7 ), ["terrain"] = 9, },
-{["loc"] = Point( 5, 2 ), ["terrain"] = 0, ["item"] = "Item_Mine", },
-{["loc"] = Point( 5, 6 ), ["terrain"] = 4, },
-{["loc"] = Point( 5, 7 ), ["terrain"] = 9, },
-{["loc"] = Point( 6, 1 ), ["terrain"] = 0, ["item"] = "Item_Mine", },
-{["loc"] = Point( 6, 2 ), ["terrain"] = 6, },
-{["loc"] = Point( 6, 3 ), ["terrain"] = 0, ["item"] = "Item_Mine", },
-{["loc"] = Point( 6, 4 ), ["terrain"] = 0, ["item"] = "Item_Mine", },
-{["loc"] = Point( 6, 6 ), ["terrain"] = 4, },
-{["loc"] = Point( 6, 7 ), ["terrain"] = 4, },
-{["loc"] = Point( 7, 0 ), ["terrain"] = 6, },
-{["loc"] = Point( 7, 5 ), ["terrain"] = 4, },
-{["loc"] = Point( 7, 6 ), ["terrain"] = 4, },
-{["loc"] = Point( 7, 7 ), ["terrain"] = 4, },
 },
-["spawns"] = {"Scarab1", "Hornet2", "Scarab1", "Spider2", "Scorpion1", },
-["spawn_ids"] = {156, 157, 158, 159, 160, },
-["spawn_points"] = {Point(6,5), Point(7,4), Point(7,3), Point(5,3), Point(5,5), },
-["zones"] = {},
-["tags"] = {"generic", "any_sector", "mountain", },
-["pawn_count"] = 0, ["blocked_points"] = {},
-["blocked_type"] = {},
-},
-
-
-},
-["state"] = 1, ["name"] = "Relic Preserves", },
-["iBattleRegion"] = 2, }
+["iBattleRegion"] = 1, }
  
 
 GAME = { 
@@ -575,22 +489,70 @@ GAME = {
 ["AssetId"] = "Str_Power" 
 }, 
 [8] = { 
-["Spawner"] = { 
-}, 
-["AssetId"] = "Str_Tower", 
-["ID"] = "Mission_FireflyBoss", 
-["LiveEnvironment"] = { 
-}, 
 ["BonusObjs"] = { 
 [1] = 1 
+}, 
+["Spawner"] = { 
+["used_bosses"] = 0, 
+["num_spawns"] = 7, 
+["curr_weakRatio"] = { 
+[1] = 2, 
+[2] = 3 
+}, 
+["curr_upgradeRatio"] = { 
+[1] = 2, 
+[2] = 3 
+}, 
+["upgrade_streak"] = 0, 
+["num_bosses"] = 0, 
+["pawn_counts"] = { 
+["Scarab"] = 1, 
+["Scorpion"] = 3, 
+["Digger"] = 1, 
+["Hornet"] = 2 
 } 
+}, 
+["LiveEnvironment"] = { 
+}, 
+["BossID"] = 254, 
+["AssetLoc"] = Point( 1, 6 ), 
+["ID"] = "Mission_FireflyBoss", 
+["VoiceEvents"] = { 
+}, 
+["AssetId"] = "Str_Tower", 
+["PowerStart"] = 5 
 }, 
 [3] = { 
 ["Spawner"] = { 
+["used_bosses"] = 0, 
+["num_spawns"] = 4, 
+["curr_weakRatio"] = { 
+[1] = 1, 
+[2] = 1 
+}, 
+["curr_upgradeRatio"] = { 
+[1] = 0, 
+[2] = 1 
+}, 
+["upgrade_streak"] = 1, 
+["num_bosses"] = 0, 
+["pawn_counts"] = { 
+["Hornet"] = 1, 
+["Digger"] = 1, 
+["Scorpion"] = 1, 
+["Scarab"] = 1 
+} 
 }, 
 ["AssetId"] = "Str_Battery", 
+["AssetLoc"] = Point( 1, 2 ), 
 ["ID"] = "Mission_Airstrike", 
+["VoiceEvents"] = { 
+}, 
 ["LiveEnvironment"] = { 
+["Locations"] = { 
+}, 
+["Planned"] = { 
+} 
 }, 
 ["BonusObjs"] = { 
 [1] = 6, 
@@ -745,12 +707,13 @@ GAME = {
  
 
 SquadData = {
-["money"] = 5, ["cores"] = 0, ["bIsFavor"] = false, ["repairs"] = 0, ["CorpReward"] = {CreateEffect({weapon = "Brute_Heavyrocket",}), CreateEffect({skill1 = "Move",skill2 = "Reactor",pilot = "Pilot_Youth",}), CreateEffect({power = 2,}), },
+["money"] = 7, ["cores"] = 0, ["bIsFavor"] = false, ["repairs"] = 0, ["CorpReward"] = {CreateEffect({weapon = "Brute_Heavyrocket",}), CreateEffect({skill1 = "Move",skill2 = "Reactor",pilot = "Pilot_Youth",}), CreateEffect({power = 2,}), },
 ["RewardClaimed"] = false, 
 ["skip_pawns"] = true, 
 
-["storage_size"] = 5, ["storage_3"] = {["pilot"] = true, ["id"] = "Pilot_Archive", ["name"] = "Amelia Kim", ["name_id"] = "", ["renamed"] = false, ["skill1"] = 1, ["skill2"] = 3, ["exp"] = 7, ["level"] = 1, ["travel"] = 0, ["final"] = 0, ["starting"] = true, },
+["storage_size"] = 6, ["storage_3"] = {["pilot"] = true, ["id"] = "Pilot_Archive", ["name"] = "Amelia Kim", ["name_id"] = "", ["renamed"] = false, ["skill1"] = 1, ["skill2"] = 3, ["exp"] = 7, ["level"] = 1, ["travel"] = 0, ["final"] = 0, ["starting"] = true, },
 ["storage_4"] = {["weapon"] = "Passive_Electric", },
+["storage_5"] = {["weapon"] = "Support_Blizzard", },
 ["CorpStore"] = {CreateEffect({weapon = "Ranged_BackShot",money = -2,}), CreateEffect({weapon = "Passive_ForceAmp",money = -2,}), CreateEffect({weapon = "Brute_Shockblast",money = -2,}), CreateEffect({weapon = "Brute_Beetle",money = -2,}), CreateEffect({money = -3,stock = -1,cores = 1,}), CreateEffect({money = -1,power = 1,stock = -1,}), },
 ["island_store_count"] = 2, ["store_undo_size"] = 0, }
  
