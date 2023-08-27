@@ -1,7 +1,7 @@
 Profile = {
 ["version"] = 1, ["visible_name"] = "Alpha", ["opening"] = true, ["hide_tutorials"] = false, 
 ["last_squad"] = 2, ["last_pilot"] = 1, 
-["timer"] = 54244132.000000, 
+["timer"] = 55768112.000000, 
 ["unlocked_island"] = 3, 
 
 ["tutorials"] = {"Tutorial_PowerGrid", "Tutorial_PushDamage", "Tutorial_PushDeath", "Tutorial_BuildingDamage", "Tutorial_Drowning", "Tutorial_Combat", "Tutorial_Rewards", "Tutorial_Opening", "Tutorial_Environment", "Tutorial_Spawning", "Tutorial_Jelly", "Tutorial_Forest", "Tutorial_DamagedMech", "Tutorial_GridDefense", "Tutorial_Webbed", "Tutorial_Pod", "Tutorial_Money", "Tutorial_Cores", "Tutorial_Cores2", "Tutorial_Cores3", "Tutorial_Fire", "Tutorial_InfoButton", "Tutorial_Weapon", "Tutorial_VolatileVek", "Tutorial_Water", "Tutorial_WaterUndo", "Tutorial_Acid", "Tutorial_Final", "Tutorial_Frozen", "Tutorial_PodDestroyed", "Tutorial_Armor", "Tutorial_Shield", "Tutorial_IslandNewGame", "Tutorial_Pilot", "Tutorial_PoweredPilot", "Tutorial_Boosted", "Tutorial_DeadPilot", "Tutorial_Cracked", },
@@ -11,21 +11,21 @@ Profile = {
 ["pilots"] = {"Pilot_Original", "Pilot_Miner", "Pilot_Recycler", "Pilot_Youth", "Pilot_Hotshot", "Pilot_Genius", },
 
 
-["achievements"] = {["Global_Pilot_Unlocked"] = 1, ["Rust_A_3"] = 1, ["Archive_A_Victory_3"] = 0, ["Pinnacle_A_3"] = 1, ["Global_Meta_Unlock"] = 1, ["Pinnacle_A_1"] = 1, ["Global_Island_Building"] = 1, ["Global_Victory_Any"] = 1, ["Global_Pilot_Three"] = 1, ["Global_Meta_Reputation"] = 1, ["Global_Challenge_Power"] = 1, ["Rust_A_Victory_3"] = 1, ["Global_Pilot_Max"] = 1, ["Archive_A_3"] = 0, ["Global_Island_Rep"] = 1, ["Global_Island_Perfect"] = 1, },
+["achievements"] = {["Global_Pilot_Unlocked"] = 1, ["Rust_A_3"] = 1, ["Archive_A_Victory_3"] = 0, ["Pinnacle_A_3"] = 1, ["Global_Meta_Unlock"] = 1, ["Pinnacle_A_1"] = 1, ["Global_Island_Building"] = 1, ["Global_Victory_Any"] = 1, ["Global_Pilot_Three"] = 1, ["Global_Meta_Reputation"] = 1, ["Global_Challenge_Power"] = 1, ["Rust_A_Victory_3"] = 1, ["Global_Pilot_Max"] = 1, ["Archive_A_3"] = 0, ["Global_Island_Rep"] = 1, ["Global_Island_Perfect"] = 1, ["Global_Meta_Block"] = 1, },
 
-["trackers"] = {["Global_Pilot_Three"] = 3, ["Global_Victory_Any"] = 1, ["Global_Meta_Perfect"] = 1, ["Global_Challenge_New"] = 7, ["Global_Pilot_Final"] = 1, ["Pinnacle_A_1"] = 1, ["Global_Challenge_Mods"] = 20, ["Global_Meta_Unlock"] = 2, ["Global_Challenge_Perfect"] = 4, ["Global_Island_Mechs"] = 25, ["Global_Challenge_Pods"] = 4, ["Global_Pilot_Max"] = 2, ["Global_Meta_Rescue"] = 35050, ["Global_Pilot_Unlocked"] = 6, ["Global_Victory_Complete"] = 2, ["Global_Victory_Four"] = 2, ["Global_Victory_Islands"] = 1, ["Global_Meta_Reputation"] = 50, ["Global_Meta_Block"] = 91, ["Global_Island_Power"] = 3, },
-
-
-["stat_tracker"] = {["games"] = 2, ["travelers"] = 2, ["kills"] = 293, ["islands"] = 8, ["pods"] = 11, ["total"] = 35050, ["victories"] = {0, 2, 0, },
+["trackers"] = {["Global_Pilot_Three"] = 3, ["Global_Victory_Any"] = 1, ["Global_Meta_Perfect"] = 1, ["Global_Challenge_New"] = 11, ["Global_Pilot_Final"] = 1, ["Pinnacle_A_1"] = 1, ["Global_Challenge_Mods"] = 38, ["Global_Meta_Unlock"] = 2, ["Global_Challenge_Perfect"] = 4, ["Global_Island_Mechs"] = 8, ["Global_Challenge_Pods"] = 4, ["Global_Pilot_Max"] = 2, ["Global_Meta_Rescue"] = 37050, ["Global_Pilot_Unlocked"] = 6, ["Global_Victory_Complete"] = 2, ["Global_Victory_Four"] = 2, ["Global_Victory_Islands"] = 1, ["Global_Meta_Reputation"] = 50, ["Global_Meta_Block"] = 100, ["Global_Island_Power"] = 1, },
 
 
-["current"] = {["score"] = 13476, ["time"] = 8842422.000000, ["kills"] = 110, ["damage"] = 0, ["failures"] = 4, ["difficulty"] = 1, ["victory"] = false, ["islands"] = 2, ["squad"] = 2, 
+["stat_tracker"] = {["games"] = 2, ["travelers"] = 2, ["kills"] = 312, ["islands"] = 9, ["pods"] = 11, ["total"] = 37050, ["victories"] = {0, 2, 0, },
+
+
+["current"] = {["score"] = 15476, ["time"] = 10300539.000000, ["kills"] = 134, ["damage"] = 0, ["failures"] = 4, ["difficulty"] = 1, ["victory"] = false, ["islands"] = 3, ["squad"] = 2, 
 ["mechs"] = {"LaserMech", "ChargeMech", "ScienceMech", },
 ["colors"] = {2, 2, 2, },
-["weapons"] = {"Prime_Lasermech", "DeploySkill_ShieldTank", "Brute_Beetle", "Brute_Shockblast_A", "Science_Pullmech", "Science_Shield_AB", },
+["weapons"] = {"Prime_Lasermech", "DeploySkill_ShieldTank_B", "Brute_Beetle", "Brute_Shockblast_A", "Support_Wind_A", "Science_Shield_B", },
 ["pilot0"] = {["id"] = "Pilot_Hotshot", ["name"] = "Henry Kwan", ["name_id"] = "Pilot_Hotshot_Name", ["renamed"] = false, ["skill1"] = 5, ["skill2"] = 3, ["exp"] = 50, ["level"] = 2, ["travel"] = 0, ["final"] = 0, ["starting"] = false, },
-["pilot1"] = {["id"] = "Pilot_Genius", ["name"] = "Bethany Jones", ["name_id"] = "Pilot_Genius_Name", ["renamed"] = false, ["skill1"] = 1, ["skill2"] = 0, ["exp"] = 19, ["level"] = 1, ["travel"] = 0, ["final"] = 0, ["starting"] = false, },
-["pilot2"] = {["id"] = "Pilot_Miner", ["name"] = "Silica", ["name_id"] = "Pilot_Miner_Name", ["renamed"] = false, ["skill1"] = 0, ["skill2"] = 3, ["exp"] = 50, ["level"] = 2, ["travel"] = 1, ["final"] = 1, ["starting"] = true, ["power"] = {0, 0, },
+["pilot1"] = {["id"] = "Pilot_Genius", ["name"] = "Bethany Jones", ["name_id"] = "Pilot_Genius_Name", ["renamed"] = false, ["skill1"] = 1, ["skill2"] = 0, ["exp"] = 36, ["level"] = 1, ["travel"] = 0, ["final"] = 0, ["starting"] = false, },
+["pilot2"] = {["id"] = "Pilot_Miner", ["name"] = "Silica", ["name_id"] = "Pilot_Miner_Name", ["renamed"] = false, ["skill1"] = 0, ["skill2"] = 3, ["exp"] = 50, ["level"] = 2, ["travel"] = 1, ["final"] = 1, ["starting"] = true, ["power"] = {1, 1, },
 ["last_end"] = 1, },
 },
 
@@ -57,7 +57,7 @@ Profile = {
 ["games"] = 1, ["score"] = 14640, ["kills"] = 122, },
 
 ["squad2"] = {["victories"] = {0, 0, 0, },
-["games"] = 0, ["score"] = 0, ["kills"] = 111, },
+["games"] = 0, ["score"] = 0, ["kills"] = 138, },
 
 ["squad3"] = {["victories"] = {0, 0, 0, },
 ["games"] = 0, ["score"] = 0, ["kills"] = 0, },
@@ -108,9 +108,9 @@ Profile = {
 
 ["Pilot_Original"] = {["battles"] = 37, ["kills"] = 64, ["travels"] = 1, },
 
-["Pilot_Miner"] = {["battles"] = 31, ["kills"] = 65, ["travels"] = 1, },
+["Pilot_Miner"] = {["battles"] = 33, ["kills"] = 73, ["travels"] = 1, },
 
-["Pilot_Hotshot"] = {["battles"] = 14, ["kills"] = 41, },
+["Pilot_Hotshot"] = {["battles"] = 16, ["kills"] = 51, },
 
 ["Pilot_Recycler"] = {["battles"] = 11, ["kills"] = 18, },
 
@@ -120,30 +120,30 @@ Profile = {
 
 ["Pilot_Rust"] = {["battles"] = 11, ["kills"] = 5, },
 
-["Pilot_Genius"] = {["battles"] = 1, ["kills"] = 2, },
+["Pilot_Genius"] = {["battles"] = 3, ["kills"] = 6, },
 },
 
 ["enemies"] = {
 
 ["HornetBoss"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 3, },
 
-["Hornet1"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 31, ["damage"] = 3, },
+["Hornet1"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 34, ["damage"] = 3, },
 
 ["Jelly_Explode1"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 10, },
 
 ["Snowlaser1"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 3, ["damage"] = 1, },
 
-["Scarab1"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 52, },
+["Scarab1"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 53, },
 
-["Digger2"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 3, },
+["Digger2"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 5, },
 
 ["Leaper1"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 22, ["damage"] = 2, },
 
 ["BlobBoss"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 2, },
 
-["Spiderling1"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 6, ["damage"] = 1, },
+["Spiderling1"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 7, ["damage"] = 1, },
 
-["Scarab2"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 7, ["damage"] = 2, },
+["Scarab2"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 8, ["damage"] = 2, },
 
 ["WebbEgg1"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 8, },
 
@@ -161,11 +161,11 @@ Profile = {
 
 ["Digger1"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 6, },
 
-["Leaper2"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 7, },
+["Leaper2"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 12, },
 
 ["BlobBossSmall"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 7, ["damage"] = 1, },
 
-["Jelly_Regen1"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 5, },
+["Jelly_Regen1"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 8, },
 
 ["Spider2"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 2, },
 
@@ -181,9 +181,9 @@ Profile = {
 
 ["Spider1"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 5, },
 
-["Blobber2"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 2, },
+["Blobber2"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 4, },
 
-["Firefly2"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 4, },
+["Firefly2"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 7, },
 
 ["PunchMech"] = {["battles"] = 0, ["kills"] = 0, ["damage"] = 2, },
 
@@ -191,7 +191,7 @@ Profile = {
 
 ["Beetle1"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 8, ["damage"] = 4, },
 
-["Hornet2"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 9, },
+["Hornet2"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 11, },
 
 ["ScorpionBoss"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 2, },
 
@@ -199,9 +199,9 @@ Profile = {
 
 ["Crab2"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 3, },
 
-["FireflyBoss"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 1, },
+["FireflyBoss"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 2, },
 
-["Blob2"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 4, },
+["Blob2"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 7, },
 
 ["Snowart1"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 2, },
 },
