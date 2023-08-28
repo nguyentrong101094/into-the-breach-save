@@ -1,31 +1,31 @@
 Profile = {
 ["version"] = 1, ["visible_name"] = "Alpha", ["opening"] = true, ["hide_tutorials"] = false, 
 ["last_squad"] = 13, ["last_pilot"] = 1, 
-["timer"] = 68298096.000000, 
+["timer"] = 68585808.000000, 
 ["unlocked_island"] = 4, 
 
 ["tutorials"] = {"Tutorial_PowerGrid", "Tutorial_PushDamage", "Tutorial_PushDeath", "Tutorial_BuildingDamage", "Tutorial_Drowning", "Tutorial_Combat", "Tutorial_Rewards", "Tutorial_Opening", "Tutorial_Environment", "Tutorial_Spawning", "Tutorial_Jelly", "Tutorial_Forest", "Tutorial_DamagedMech", "Tutorial_GridDefense", "Tutorial_Webbed", "Tutorial_Pod", "Tutorial_Money", "Tutorial_Cores", "Tutorial_Cores2", "Tutorial_Cores3", "Tutorial_Fire", "Tutorial_InfoButton", "Tutorial_Weapon", "Tutorial_VolatileVek", "Tutorial_Water", "Tutorial_WaterUndo", "Tutorial_Acid", "Tutorial_Final", "Tutorial_Frozen", "Tutorial_PodDestroyed", "Tutorial_Armor", "Tutorial_Shield", "Tutorial_IslandNewGame", "Tutorial_Pilot", "Tutorial_PoweredPilot", "Tutorial_Boosted", "Tutorial_DeadPilot", "Tutorial_Cracked", "Tutorial_TwoClick", },
 
 ["squads"] = {true, true, true, false, false, false, false, false, true, true, false, false, false, true, false, false, },
 
-["pilots"] = {"Pilot_Original", "Pilot_Miner", "Pilot_Recycler", "Pilot_Youth", "Pilot_Hotshot", "Pilot_Genius", },
+["pilots"] = {"Pilot_Original", "Pilot_Miner", "Pilot_Recycler", "Pilot_Youth", "Pilot_Hotshot", "Pilot_Genius", "Pilot_Arrogant", },
 
 
 ["achievements"] = {["Rust_A_3"] = 1, ["Archive_A_Victory_3"] = 0, ["Pinnacle_A_Victory_4"] = 1, ["Pinnacle_A_3"] = 1, ["Global_Victory_Any"] = 1, ["Global_Pilot_Unlocked"] = 1, ["Archive_A_3"] = 0, ["Global_Meta_Block"] = 1, ["Global_Meta_Unlock"] = 1, ["Pinnacle_A_1"] = 1, ["Global_Island_Building"] = 1, ["Global_Pilot_Max"] = 1, ["Global_Pilot_Three"] = 1, ["Global_Meta_Reputation"] = 1, ["Rust_A_Victory_3"] = 1, ["Global_Challenge_Power"] = 1, ["Global_Island_Rep"] = 1, ["Global_Island_Perfect"] = 1, ["Squad_Mist_3"] = 1, ["Squad_Mist_1"] = 1, },
 
-["trackers"] = {["Global_Victory_Any"] = 1, ["Global_Pilot_Max"] = 2, ["Global_Island_Power"] = 1, ["Squad_Mist_1"] = 12, ["Global_Meta_Perfect"] = 2, ["Squad_Mist_2"] = 28, ["Global_Pilot_Final"] = 2, ["Global_Pilot_Three"] = 3, ["Global_Victory_Islands"] = 2, ["Global_Meta_Reputation"] = 50, ["Global_Meta_Unlock"] = 2, ["Global_Island_Mechs"] = 23, ["Global_Challenge_Mods"] = 11, ["Global_Challenge_Pods"] = 1, ["Global_Meta_Rescue"] = 45050, ["Global_Pilot_Unlocked"] = 6, ["Global_Victory_Complete"] = 3, ["Pinnacle_A_1"] = 1, ["Global_Victory_Four"] = 3, ["Global_Meta_Block"] = 100, },
+["trackers"] = {["Global_Victory_Any"] = 1, ["Global_Pilot_Max"] = 2, ["Global_Island_Power"] = 1, ["Squad_Mist_1"] = 12, ["Global_Meta_Perfect"] = 3, ["Squad_Mist_2"] = 31, ["Global_Pilot_Final"] = 2, ["Global_Pilot_Three"] = 3, ["Global_Victory_Islands"] = 2, ["Global_Meta_Reputation"] = 50, ["Global_Meta_Unlock"] = 2, ["Global_Island_Mechs"] = 24, ["Global_Challenge_Mods"] = 13, ["Global_Challenge_Pods"] = 1, ["Global_Meta_Rescue"] = 46050, ["Global_Pilot_Unlocked"] = 6, ["Global_Victory_Complete"] = 3, ["Pinnacle_A_1"] = 1, ["Global_Victory_Four"] = 3, ["Global_Meta_Block"] = 100, },
 
 
-["stat_tracker"] = {["games"] = 3, ["travelers"] = 3, ["kills"] = 385, ["islands"] = 10, ["pods"] = 14, ["total"] = 45050, ["victories"] = {0, 2, 1, },
+["stat_tracker"] = {["games"] = 3, ["travelers"] = 3, ["kills"] = 391, ["islands"] = 11, ["pods"] = 14, ["total"] = 46050, ["victories"] = {0, 2, 1, },
 
 
-["current"] = {["score"] = 4000, ["time"] = 8940127.000000, ["kills"] = 35, ["damage"] = 0, ["failures"] = 0, ["difficulty"] = 1, ["victory"] = false, ["squad"] = 13, 
+["current"] = {["score"] = 5000, ["time"] = 9247775.000000, ["kills"] = 36, ["damage"] = 0, ["failures"] = 0, ["difficulty"] = 1, ["victory"] = false, ["islands"] = 1, ["squad"] = 13, 
 ["mechs"] = {"NeedleMech", "SmokeMech", "SupermanMech", },
 ["colors"] = {11, 11, 11, },
 ["weapons"] = {"Brute_KickBack_A", "", "Ranged_SmokeFire", "Passive_HealingSmoke", "Science_TC_Control_A", "", },
 ["pilot0"] = {["id"] = "Pilot_Miner", ["name"] = "Silica", ["name_id"] = "Pilot_Miner_Name", ["renamed"] = false, ["skill1"] = 0, ["skill2"] = 3, ["exp"] = 50, ["level"] = 2, ["travel"] = 2, ["final"] = 2, ["starting"] = true, ["power"] = {0, 0, },
 ["last_end"] = 1, },
-["pilot1"] = {["id"] = "Pilot_Detritus", ["name"] = "Ilona Smith", ["name_id"] = "", ["renamed"] = false, ["skill1"] = 10, ["skill2"] = 3, ["exp"] = 6, ["level"] = 1, ["travel"] = 0, ["final"] = 0, ["starting"] = true, },
+["pilot1"] = {["id"] = "Pilot_Detritus", ["name"] = "Ilona Smith", ["name_id"] = "", ["renamed"] = false, ["skill1"] = 10, ["skill2"] = 3, ["exp"] = 9, ["level"] = 1, ["travel"] = 0, ["final"] = 0, ["starting"] = true, },
 ["pilot2"] = {["id"] = "Pilot_Pinnacle", ["name"] = "Binary", ["name_id"] = "", ["renamed"] = false, ["skill1"] = 5, ["skill2"] = 9, ["exp"] = 19, ["level"] = 0, ["travel"] = 0, ["final"] = 0, ["starting"] = true, },
 },
 
@@ -100,7 +100,7 @@ Profile = {
 ["games"] = 0, ["score"] = 0, ["kills"] = 0, },
 
 ["squad13"] = {["victories"] = {0, 0, 0, },
-["games"] = 0, ["score"] = 0, ["kills"] = 35, },
+["games"] = 0, ["score"] = 0, ["kills"] = 36, },
 
 ["squad14"] = {["victories"] = {0, 0, 0, },
 ["games"] = 0, ["score"] = 0, ["kills"] = 0, },
@@ -114,7 +114,7 @@ Profile = {
 
 ["Pilot_Pinnacle"] = {["battles"] = 28, ["kills"] = 22, },
 
-["Pilot_Detritus"] = {["battles"] = 29, ["kills"] = 37, ["deaths"] = 1, },
+["Pilot_Detritus"] = {["battles"] = 29, ["kills"] = 38, ["deaths"] = 1, },
 
 ["Pilot_Original"] = {["battles"] = 37, ["kills"] = 64, ["travels"] = 1, },
 
@@ -209,7 +209,7 @@ Profile = {
 
 ["ScorpionBoss"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 2, },
 
-["Scorpion1"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 45, ["damage"] = 3, },
+["Scorpion1"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 46, ["damage"] = 3, },
 
 ["Crab2"] = {["battles"] = 0, ["kills"] = 0, ["deaths"] = 4, },
 

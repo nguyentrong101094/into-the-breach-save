@@ -42,7 +42,7 @@ Settings = {
 ["max_scale"] = 5, 
 ["new_enemies"] = 0, 
 ["large_font_tv"] = 0, 
-["new_equip"] = 0, 
+["new_equip"] = 1, 
 ["mutations"] = {},
 
 
